@@ -1,1 +1,1 @@
-# yoga
+# Online Yoga Training Website
